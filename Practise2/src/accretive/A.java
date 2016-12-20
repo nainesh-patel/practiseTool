@@ -6,6 +6,7 @@ public class A {
 		
 		System.out.println("hi from new file");
 
+		System.out.println("changes made");
 	}
 
 }
